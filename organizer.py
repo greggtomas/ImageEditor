@@ -2,6 +2,9 @@
 # This class will move image from a specific
 # directory to another directory that user chooses
 #
+# History:
+#   2022-05-14 :  Initial commit
+#
 import os
 import pathlib
 
